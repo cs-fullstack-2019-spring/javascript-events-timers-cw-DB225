@@ -1,7 +1,7 @@
 // Create a button with the text Start countdown!.
 // When the User clicks the button, display a countdown sequence from 10 to LIFTOFF!!.
 // Display each number during the countdown, the the word LIFTOFF.
-
+// KEY: Wanted you to use setInterval() here
 var btnStart = document.getElementById("start");
 btnStart.addEventListener("click", function (e) {
     var count = 0;

@@ -1,3 +1,8 @@
+
+### POINTS: 2
+### KEY: Mostly Great. Missed just a couple of details. The textarea in exercise 2 should be disabled by default, 
+### Wanted you to use setInterval for countdown. But you put in hard work so kept you at full points.
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
